@@ -25,6 +25,7 @@
 .grid-box-6 {
 	grid-column: 1;
 }
+
 .grid-box-1 {
 	grid-row: 1;
 }
@@ -32,10 +33,10 @@
 	grid-row: 2;
 }
 .grid-box-3 {
-	grid-row: 4;
+	grid-row: 3;
 }
 .grid-box-4 {
-	grid-row: 3;
+	grid-row: 4;
 }
 .grid-box-5 {
 	grid-row: 5;
@@ -52,7 +53,6 @@
 
 /* Footer */
 #mainfooter {
-	/* padding: 15px 0; */
 	text-align: center;
 }
 
